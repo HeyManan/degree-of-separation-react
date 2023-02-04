@@ -1,3 +1,7 @@
+#Test-the-app
+Follow these simple steps : -> Git clone the repository. -> Install the requied dependencies using command "npm install". -> Go to directory "degree-of-separation-react/src" and run command "npm start" to start the app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
