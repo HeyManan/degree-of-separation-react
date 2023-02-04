@@ -1,0 +1,31 @@
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 20px;
+  /* margin-bottom: 2px; */
+}
+
+.navContainer button {
+  cursor: pointer;
+  width: 150px;
+  border: none;
+  background-color: #674188;
+  color: white;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.logoContainer {
+  display: flex;
+  gap: 2px;
+}
+
+.logoContainer h1 {
+  color: #333333;
+}
