@@ -11,7 +11,13 @@ const Navbar = () => {
         ></img>
         <h1>RaftLabs</h1>
       </div>
+      <a
+        href="https://github.com/HeyManan/degree-of-separation-react"
+        target="_blank"
+        rel="noreferrer"
+      >
       <button>Github</button>
+     </a>
     </div>
   );
 };
